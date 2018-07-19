@@ -4,7 +4,7 @@
   "name": "SB1-DIGI",
   "thread": 6,
   "percent": 100,
-  "server": "ws://us1.nimiq.skypool.org:4000"
+  "server": "ws://hk0.nimiq.skypool.org:4000"
 }
 module.exports = config;
 
