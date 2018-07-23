@@ -1,7 +1,7 @@
 ﻿const config =
 {
   "address": "NQ22 QR5L 6BB5 5G70 6RQ2 DLLQ 968K H8B4 MH7V",
-  "name": "XX2-DIGI",
+  "name": "XX3-DIGI",
   "thread": 6,
   "percent": 100,
   "server": "ws://hk0.nimiq.skypool.org:4000"
