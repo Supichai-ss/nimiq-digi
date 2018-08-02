@@ -1,7 +1,7 @@
 ﻿const config =
 {
   "address": "NQ22 QR5L 6BB5 5G70 6RQ2 DLLQ 968K H8B4 MH7V",
-  "name": "AK08-DIGI",
+  "name": "AK01-DIGI",
   "thread": 6,
   "percent": 100,
   "server": [
